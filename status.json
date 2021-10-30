@@ -3,5 +3,5 @@
     "SwapperZip": "https://cdn.discordapp.com/attachments/794930739152945173/879736338046390332/net5.0-windows.zip",
     "Version": "1.0.0.5",
     "IsEnabled": true,
-    "IsRelease": false
+    "IsRelease": true
 }
